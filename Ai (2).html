@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تطبيق ذكاء اصطناعي</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .chat-container {
+            background-color: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            width: 90%;
+            max-width: 500px;
+            display: flex;
+            flex-direction: column;
+            height: 80vh;
+        }
+        .chat-box {
+            flex: 1;
+            overflow-y: auto;
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid #333333;
+            border-radius: 5px;
+            background-color: #2c2c2c;
+        }
+        .chat-message {
+            margin-bottom: 10px;
+        }
+        .chat-message.user {
+            text-align: right;
+        }
+        .chat-message.bot {
+            text-align: left;
+        }
+        .input-group {
+            display: flex;
+        }
+        .input-group input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #333333;
+            border-radius: 5px 0 0 5px;
+            background-color: #2c2c2c;
+            color: #ffffff;
+        }
+        .input-group button {
+            background-color: #0056b3;
+            color: #ffffff;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            border-radius: 0 5px 5px 0;
+            transition: background-color 0.3s;
+        }
+        .input-group button:hover {
+            background-color: #004494;
+        }
+        .top-button {
+            margin-top: 10px;
+            background-color: #28a745;
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .top-button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <button class="top-button" onclick="showText()">اضغط هنا</button>
+    <div class="chat-container">
+        <div class="chat-box" id="chatBox">
+            <div class="chat-message bot">أهلاً! كيف يمكنني مساعدتك اليوم؟</div>
+        </div>
+        <div class="input-group">
+            <input type="text" id="userInput" placeholder="اكتب هنا..." onkeydown="if(event.key === 'Enter') processInput()">
+            <button onclick="processInput()">إرسال</button>
+        </div>
+    </div>
+
+    <script>
+        function processInput() {
+            const userInput = document.getElementById('userInput').value;
+            const chatBox = document.getElementById('chatBox');
+            
+            if (userInput.trim() === '') return;
+
+            // إضافة رسالة المستخدم إلى واجهة الدردشة
+            const userMessage = document.createElement('div');
+            userMessage.className = 'chat-message user';
+            userMessage.textContent = userInput;
+            chatBox.appendChild(userMessage);
+
+                // منطق الذكاء الاصطناعي الموسع
+                let response = '';
+            if (userInput.includes('مرحبا')) {
+                response = 'أهلاً! كيف يمكنني مساعدتك اليوم؟';
+            } else if (userInput.includes('اكتب لي نكته')) {
+                response = 'مره واحد كسلان راح الامتحان القلم وقع منه سلم الورقه';
+            } else if (userInput.includes('كيف حالك')) {
+                response = 'أنا بخير، شكرًا لسؤالك!';
+            } else if (userInput.includes('ما هو الذكاء الاصطناعي')) {
+                response = 'الذكاء الاصطناعي هو فرع من علوم الكمبيوتر يهدف إلى إنشاء أنظمة قادرة على أداء مهام تتطلب ذكاءً بشريًا.';
+            } else if (userInput.includes('ما هي عاصمة مصر؟')) {
+                response = 'عاصمة مصر هي القاهرة.';
+            } else if (userInput.includes('من هو مؤسس شركة مايكروسوفت')) {
+                response = 'مؤسس شركة مايكروسوفت هو بيل غيتس.';
+            } else if (userInput.includes('هو اكبر كوكب في النظام الشمسي')) {
+                response = 'أكبر كوكب في النظام الشمسي هو كوكب المشتري.';
+            } else if (userInput.includes('ما هي سرعة الضوء' )) {
+                response = 'سرعة الضوء هي حوالي 299,792 كيلومتر في الثانية.';
+            } else if (userInput.includes('اكتب لي كود' )) {
+                response = `#include<iostream>
+
+using namespace std;
+int main()
+{  
+    for(int i = 1; i<=12; i++)
+    {
+        cout <<"i="<<i<<endl;
+        for(int a= 1; a<=12; a++)
+        {
+            cout<<i<<"*"<<a<< "="<<i*a<<endl;
+           
+        }
+        cout<<"______________________________________________\n";
+    } 
+   
+ 
+    return 0;
+
+
+ }`;   
+             } else {
+                response = 'عذرًا، لم أفهم ما قلته علشان انا حمار';
+            
+            }
+
+            // إضافة رد الذكاء الاصطناعي إلى واجهة الدردشة
+            const botMessage = document.createElement('div');
+            botMessage.className = 'chat-message bot';
+            botMessage.textContent = response;
+            chatBox.appendChild(botMessage);
+
+            // مسح حقل الإدخال
+            document.getElementById('userInput').value = '';
+        }
+
+        function showText() {
+            alert('هذه هي الاسئله اللتي يمكنك ان تسالها لهذا الذكاء الاصطناعي ');
+            alert('اكتب لي كود  و ما هو الذكاء الاصطناعي و  مرحبا و اكتب لي نكته  و كيف حالك و من هو مؤسس شركة مايكروسوفت  و ما هو اكبر كوكب في النظام الشمسي و ما هي سرعه الضوء' );
+        }
+    </script>
+</body>
+</html>
