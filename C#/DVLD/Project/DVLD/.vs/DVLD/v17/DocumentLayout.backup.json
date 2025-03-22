@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld\\car number\\frmmakecarnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:car number\\frmmakecarnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld_dataaccess\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld_buisness\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld_buisness\\clscarno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|f:\\asd\\worke\\c#\\dvld\\project\\dvld_dataaccess\\clscarnodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\car number\\frmmakecarnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:car number\\frmmakecarnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlPersonCardWithFilter.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAvwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:40:39.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:38:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:27:44.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:30:54.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAddUpdatePerson.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\frmAddUpdatePerson.cs",
+              "RelativeToolTip": "People\\frmAddUpdatePerson.cs",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAgwDQBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:08:12.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\frmAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "People\\frmAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:08:09.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_Buisness\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsPerson.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_Buisness\\clsPerson.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsPerson.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAgwLwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:50:45.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsCarNo.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_Buisness\\clsCarNo.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsCarNo.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_Buisness\\clsCarNo.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsCarNo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:49:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAQwCgBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:28:10.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAcwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:25:13.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsCarNoData.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsCarNoData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCarNoData.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD_DataAccess\\clsCarNoData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCarNoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:24:25.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMakeCarNumber.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\Car Number\\frmMakeCarNumber.cs",
+              "RelativeDocumentMoniker": "Car Number\\frmMakeCarNumber.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\Car Number\\frmMakeCarNumber.cs",
+              "RelativeToolTip": "Car Number\\frmMakeCarNumber.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwI0AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:38:44.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAddUpdateUser.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\User\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "User\\frmAddUpdateUser.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\User\\frmAddUpdateUser.cs",
+              "RelativeToolTip": "User\\frmAddUpdateUser.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAswE0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:36:16.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddUpdateUser.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\User\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "User\\frmAddUpdateUser.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\User\\frmAddUpdateUser.cs [Design]",
+              "RelativeToolTip": "User\\frmAddUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:35:38.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:26:34.525Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:23:42.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMakeCarNumber.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\Car Number\\frmMakeCarNumber.cs",
+              "RelativeDocumentMoniker": "Car Number\\frmMakeCarNumber.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\Car Number\\frmMakeCarNumber.cs [Design]*",
+              "RelativeToolTip": "Car Number\\frmMakeCarNumber.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:16:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAASwMEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:33:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\DVLD\\Project\\DVLD\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:15:18.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
