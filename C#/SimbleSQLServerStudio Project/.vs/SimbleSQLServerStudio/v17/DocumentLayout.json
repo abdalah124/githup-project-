@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\delete column\\deletecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\delete column\\deletecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\delete column\\deletecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\delete column\\deletecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D571C268-EB98-414C-8C31-C482178D4C18}|DataAccessLayer\\DataConnectionAccess.csproj|f:\\asd\\worke\\c#\\data base mouse devlober project\\dataaccesslayer\\dataaccesssittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D571C268-EB98-414C-8C31-C482178D4C18}|DataAccessLayer\\DataConnectionAccess.csproj|solutionrelative:dataaccesslayer\\dataaccesssittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D571C268-EB98-414C-8C31-C482178D4C18}|DataAccessLayer\\DataBaseAccess.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\dataaccesslayer\\dataaccesssittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D571C268-EB98-414C-8C31-C482178D4C18}|DataAccessLayer\\DataBaseAccess.csproj|solutionrelative:dataaccesslayer\\dataaccesssittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\insert into\\insertinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\insert into\\insertinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\create data base\\frmcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\create data base\\frmcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\delete table\\delete table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\delete table\\delete table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\insert into\\insertinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\insert into\\insertinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\delete table\\delete table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\delete table\\delete table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\create tabl\\frmcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\create tabl\\frmcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\create tabl\\frmcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\create tabl\\frmcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\delete data base\\deletedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\delete data base\\deletedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\delete data base\\deletedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\delete data base\\deletedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\select all from table\\selectallfromtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\select all from table\\selectallfromtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\create data base\\frmcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\create data base\\frmcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\data base mouse devlober project\\select all from table\\selectallfromtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}|Data Base Mouse Devlober project\\Data Base Mouse Devlober project.csproj|solutionrelative:data base mouse devlober project\\select all from table\\selectallfromtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccessSittings.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\DataAccessLayer\\DataAccessSittings.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessSittings.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\DataAccessLayer\\DataAccessSittings.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessSittings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:07:57.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Program.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Program.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Program.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:19:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteColumn.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:50:35.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteColumn.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Delete Column\\DeleteColumn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:08:11.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete Table.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:51:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete Table.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Delete Table\\Delete Table.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:46:44.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SelectAllFromTable.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:41:41.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SelectAllFromTable.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Select All From Table\\SelectAllFromTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:41:38.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteDB.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:15:34.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteDB.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Delete Data Base\\DeleteDB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:07:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Form1.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Form1.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Form1.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:50:38.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsertInto.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowG4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:22:31.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertInto.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Insert Into\\InsertInto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:11:51.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCreateTable.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:08:36.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCreateTable.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Create Tabl\\frmCreateTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:50:39.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAccessSittings.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\DataAccessLayer\\DataAccessSittings.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessSittings.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\DataAccessLayer\\DataAccessSittings.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessSittings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:43:55.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmCreateDB.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:47:02.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCreateDB.cs [Design]",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs [Design]",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Create Data Base\\frmCreateDB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:43:19.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Form1.cs",
+              "RelativeDocumentMoniker": "Data Base Mouse Devlober project\\Form1.cs",
+              "ToolTip": "F:\\asd\\worke\\C#\\Data Base Mouse Devlober project\\Data Base Mouse Devlober project\\Form1.cs",
+              "RelativeToolTip": "Data Base Mouse Devlober project\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:26:46.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

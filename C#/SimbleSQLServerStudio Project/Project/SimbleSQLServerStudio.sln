@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimbleSQLServerStudio", "Data Base Mouse Devlober project\SimbleSQLServerStudio.csproj", "{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConnectionAccess", "DataAccessLayer\DataConnectionAccess.csproj", "{D571C268-EB98-414C-8C31-C482178D4C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FA77A4-C1A0-4B4C-A58B-8BFF658943A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D571C268-EB98-414C-8C31-C482178D4C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D571C268-EB98-414C-8C31-C482178D4C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D571C268-EB98-414C-8C31-C482178D4C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D571C268-EB98-414C-8C31-C482178D4C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED72D17A-6B05-45A2-B04F-BBD26B71FE20}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+F:\asd\worke\C#\Data Base Mouse Devlober project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\asd\worke\C#\Data Base Mouse Devlober project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\asd\worke\C#\Data Base Mouse Devlober project\DataAccessLayer\obj\Debug\DataConnectionAccess.csproj.AssemblyReference.cache
+F:\asd\worke\C#\Data Base Mouse Devlober project\DataAccessLayer\obj\Debug\DataConnectionAccess.csproj.CoreCompileInputs.cache
+F:\asd\worke\C#\Data Base Mouse Devlober project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\asd\worke\C#\Data Base Mouse Devlober project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

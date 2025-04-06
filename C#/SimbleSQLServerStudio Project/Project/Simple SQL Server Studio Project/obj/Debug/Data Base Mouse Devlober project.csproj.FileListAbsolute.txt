@@ -1,0 +1,21 @@
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\bin\Debug\Data Base Mouse Devlober project.exe
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\bin\Debug\Data Base Mouse Devlober project.pdb
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\bin\Debug\DataAccessLayer.dll
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\bin\Debug\DataAccessLayer.pdb
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data Base Mouse Devlober project.csproj.AssemblyReference.cache
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Create_Data_Base.frmCreateDB.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Create_Tabl.CreateTable.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.MainForm.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Insert_Into.InsertInto.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Properties.Resources.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data Base Mouse Devlober project.csproj.GenerateResource.cache
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data Base Mouse Devlober project.csproj.CoreCompileInputs.cache
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data Bas.4E4E3779.Up2Date
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data Base Mouse Devlober project.exe
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data Base Mouse Devlober project.pdb
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Select_All_From_Table.SelectAllFromTable.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Delete_Data_Base.DeleteDB.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Delete_Table.DeleteTable.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\Data_Base_Mouse_Devlober_project.Delete_Column.DeleteColumn.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\DVLD.User.AddUser.resources
+F:\asd\worke\C#\Data Base Mouse Devlober project\Data Base Mouse Devlober project\obj\Debug\DVLD.Login.Login.resources
